@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of directors and filmmakers.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who directed 'Pulp Fiction'?",
+      "answers": ["Tarantino", "Scorsese", "Kubrick"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who directed 'E.T.'?",
+      "answers": ["Spielberg", "Lucas", "Cameron"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who directed '2001: A Space Odyssey'?",
+      "answers": ["Kubrick", "Tarantino", "Nolan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Titanic'?",
+      "answers": ["Cameron", "Spielberg", "Scott"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Inception'?",
+      "answers": ["Nolan", "Cameron", "Scott"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'The Godfather'?",
+      "answers": ["Coppola", "Scorsese", "Tarantino"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Schindler's List'?",
+      "answers": ["Spielberg", "Kubrick", "Cameron"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Gladiator'?",
+      "answers": ["Scott", "Nolan", "Coppola"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Goodfellas'?",
+      "answers": ["Scorsese", "Tarantino", "Kubrick"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Avatar'?",
+      "answers": ["Cameron", "Spielberg", "Nolan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Fight Club'?",
+      "answers": ["Fincher", "Nolan", "Coppola"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Blade Runner'?",
+      "answers": ["Scott", "Kubrick", "Spielberg"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'The Shining'?",
+      "answers": ["Kubrick", "Fincher", "Scott"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Jaws'?",
+      "answers": ["Spielberg", "Scott", "Cameron"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Reservoir Dogs'?",
+      "answers": ["Tarantino", "Nolan", "Fincher"],
       "correctAnswerIndex": 0
     }
   ]
